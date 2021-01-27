@@ -1,4 +1,9 @@
 {
     "url": "http://hobsons.com",
-    "intersect": "https://www.hobsons.com/solution/intersect/"
+    "intersect": "https://www.hobsons.com/solution/intersect/",
+    "title": "Education Advances | Hobsons",
+    "logo": "hobsons-logo.svg",
+    "learnmore":"Learn More",
+    "site": "Intersect",
+    "usmapoptions":"Nebraska, Missouri, Kansas, Iowa, & Oklahoma"
 }
